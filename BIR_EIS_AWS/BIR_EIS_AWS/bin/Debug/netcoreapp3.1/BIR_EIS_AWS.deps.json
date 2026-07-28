@@ -1,0 +1,164 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BIR_EIS_AWS/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.7.3.41",
+          "AWSSDK.Lambda": "3.7.12.11",
+          "AWSSDK.S3": "3.7.3.8",
+          "AWSSDK.SQS": "3.7.1.18",
+          "Amazon.Lambda.Core": "2.0.0",
+          "LumenWorksCsvReader": "4.0.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "BIR_EIS_AWS.dll": {}
+        }
+      },
+      "Amazon.Lambda.Core/2.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Amazon.Lambda.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AWSSDK.Core/3.7.11.9": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.11.9"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.7.3.41": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.9"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.3.41"
+          }
+        }
+      },
+      "AWSSDK.Lambda/3.7.12.11": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.9"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Lambda.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.12.11"
+          }
+        }
+      },
+      "AWSSDK.S3/3.7.3.8": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.9"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.3.8"
+          }
+        }
+      },
+      "AWSSDK.SQS/3.7.1.18": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.9"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.SQS.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.1.18"
+          }
+        }
+      },
+      "LumenWorksCsvReader/4.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/LumenWorks.Framework.IO.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BIR_EIS_AWS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Amazon.Lambda.Core/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V4fw3pYuP1LyUJThpbrbLwy2b4TH3CPYh5oId/CgJvGkX7lSAVyOEmkdGvDhpjegxnS4rgw6tP7faftVBO9jwQ==",
+      "path": "amazon.lambda.core/2.0.0",
+      "hashPath": "amazon.lambda.core.2.0.0.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.7.11.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PO8wHXjIFXHEwTsc+baxl0ocna22pzOI5eJtPQU7mGIZgAJtFovnoUmLBVa4mRmeFvlVgvmuUZBqLzG4J9fhKw==",
+      "path": "awssdk.core/3.7.11.9",
+      "hashPath": "awssdk.core.3.7.11.9.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.7.3.41": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SsvcK1DOzg6TGrdxYeOITdXSuI7PE8qZMZ7VnJC4IEFClmHZWdNuJY68en3wR0DYs1d/kobzPLWJ8U7KX8ROXw==",
+      "path": "awssdk.dynamodbv2/3.7.3.41",
+      "hashPath": "awssdk.dynamodbv2.3.7.3.41.nupkg.sha512"
+    },
+    "AWSSDK.Lambda/3.7.12.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uYX5taHvi3lAdF8qZosUNRztM1Cov0hCoZuu/1q7wsqD/7PjBQ4YFSDl83RaADbG5edmhDvVwYC3A7Nf6cZJww==",
+      "path": "awssdk.lambda/3.7.12.11",
+      "hashPath": "awssdk.lambda.3.7.12.11.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.7.3.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ym8BIBFf3NDhmL4PLcD/Im2B569Ipiev3Z1o5x9S7aS7XfS2MPzeFc8Knw0OYV+h1KUT46L5VDv7Uxgb2dyznw==",
+      "path": "awssdk.s3/3.7.3.8",
+      "hashPath": "awssdk.s3.3.7.3.8.nupkg.sha512"
+    },
+    "AWSSDK.SQS/3.7.1.18": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tHsGhYeFJeNtBpWdaVrfw7Pli9ZJEiqAmIZxrt7t80U7cHN2ePtpGcZiSYL3byg7TbG9vFqZMejugU7BKD04GQ==",
+      "path": "awssdk.sqs/3.7.1.18",
+      "hashPath": "awssdk.sqs.3.7.1.18.nupkg.sha512"
+    },
+    "LumenWorksCsvReader/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CP6bPmDbmV5yT7YwfGxN8Agrdj0nB82b2UitfrnTghqyfF4DXD4UXl8MoCXBz4Ja17bUYqpEDd+qaavh7lwUxg==",
+      "path": "lumenworkscsvreader/4.0.0",
+      "hashPath": "lumenworkscsvreader.4.0.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    }
+  }
+}

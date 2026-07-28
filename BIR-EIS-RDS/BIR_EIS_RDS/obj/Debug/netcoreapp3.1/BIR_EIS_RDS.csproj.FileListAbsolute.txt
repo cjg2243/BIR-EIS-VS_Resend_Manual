@@ -1,0 +1,58 @@
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR-EIS-RDS\BIR_EIS_RDS\bin\Debug\netcoreapp3.1\BIR_EIS_RDS.deps.json
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR-EIS-RDS\BIR_EIS_RDS\bin\Debug\netcoreapp3.1\BIR_EIS_RDS.dll
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR-EIS-RDS\BIR_EIS_RDS\bin\Debug\netcoreapp3.1\BIR_EIS_RDS.pdb
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.csproj.AssemblyReference.cache
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.AssemblyInfoInputs.cache
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.AssemblyInfo.cs
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.csproj.CoreCompileInputs.cache
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.dll
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.pdb
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS\BIR-EIS-RDS\BIR_EIS_RDS\bin\Debug\netcoreapp3.1\BIR_EIS_RDS.deps.json
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS\BIR-EIS-RDS\BIR_EIS_RDS\bin\Debug\netcoreapp3.1\BIR_EIS_RDS.dll
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS\BIR-EIS-RDS\BIR_EIS_RDS\bin\Debug\netcoreapp3.1\BIR_EIS_RDS.pdb
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.csproj.AssemblyReference.cache
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.AssemblyInfoInputs.cache
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.AssemblyInfo.cs
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.csproj.CoreCompileInputs.cache
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.dll
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.pdb
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\bin\Debug\netcoreapp3.1\BIR_EIS_RDS.deps.json
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\bin\Debug\netcoreapp3.1\BIR_EIS_RDS.dll
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\bin\Debug\netcoreapp3.1\BIR_EIS_RDS.pdb
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.csproj.AssemblyReference.cache
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.AssemblyInfoInputs.cache
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.AssemblyInfo.cs
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.csproj.CoreCompileInputs.cache
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.dll
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.pdb
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\bin\Debug\netcoreapp3.1\BIR_EIS_RDS.deps.json
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\bin\Debug\netcoreapp3.1\BIR_EIS_RDS.dll
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\bin\Debug\netcoreapp3.1\BIR_EIS_RDS.pdb
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.csproj.AssemblyReference.cache
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.AssemblyInfoInputs.cache
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.AssemblyInfo.cs
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.csproj.CoreCompileInputs.cache
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.dll
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.pdb
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\bin\Debug\netcoreapp3.1\BIR_EIS_RDS.deps.json
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\bin\Debug\netcoreapp3.1\BIR_EIS_RDS.dll
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\bin\Debug\netcoreapp3.1\BIR_EIS_RDS.pdb
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.csproj.AssemblyReference.cache
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.AssemblyInfoInputs.cache
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.AssemblyInfo.cs
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.csproj.CoreCompileInputs.cache
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.dll
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.pdb
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR-EIS-RDS\BIR_EIS_RDS\bin\Debug\netcoreapp3.1\BIR_EIS_RDS.deps.json
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR-EIS-RDS\BIR_EIS_RDS\bin\Debug\netcoreapp3.1\BIR_EIS_RDS.dll
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR-EIS-RDS\BIR_EIS_RDS\bin\Debug\netcoreapp3.1\BIR_EIS_RDS.pdb
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.csproj.AssemblyReference.cache
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.AssemblyInfoInputs.cache
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.AssemblyInfo.cs
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.csproj.CoreCompileInputs.cache
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.dll
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR-EIS-RDS\BIR_EIS_RDS\obj\Debug\netcoreapp3.1\BIR_EIS_RDS.pdb

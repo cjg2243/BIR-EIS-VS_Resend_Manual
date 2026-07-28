@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "8sQ49qKoGDLju9FEIFcIMBSBOdaNfP/slFr/HVt63HFXEtLwjOBMwYZvTryMz9cQ4ydLvrHPj1khz528mOYqbQ==",
+  "success": true,
+  "projectFilePath": "D:\\Shared\\BIR-EIS-PROD\\BIR-EIS-VS\\BIR-EIS-VS_Resend_Manual\\BIR_EIS_AWS\\BIR_EIS_AWS\\BIR_EIS_AWS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cjg2243\\.nuget\\packages\\amazon.lambda.core\\2.0.0\\amazon.lambda.core.2.0.0.nupkg.sha512",
+    "C:\\Users\\cjg2243\\.nuget\\packages\\awssdk.core\\3.7.11.9\\awssdk.core.3.7.11.9.nupkg.sha512",
+    "C:\\Users\\cjg2243\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.3.41\\awssdk.dynamodbv2.3.7.3.41.nupkg.sha512",
+    "C:\\Users\\cjg2243\\.nuget\\packages\\awssdk.lambda\\3.7.12.11\\awssdk.lambda.3.7.12.11.nupkg.sha512",
+    "C:\\Users\\cjg2243\\.nuget\\packages\\awssdk.s3\\3.7.3.8\\awssdk.s3.3.7.3.8.nupkg.sha512",
+    "C:\\Users\\cjg2243\\.nuget\\packages\\awssdk.sqs\\3.7.1.18\\awssdk.sqs.3.7.1.18.nupkg.sha512",
+    "C:\\Users\\cjg2243\\.nuget\\packages\\lumenworkscsvreader\\4.0.0\\lumenworkscsvreader.4.0.0.nupkg.sha512",
+    "C:\\Users\\cjg2243\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,76 @@
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.deps.json
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.dll
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.pdb
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.csproj.AssemblyReference.cache
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.AssemblyInfoInputs.cache
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.AssemblyInfo.cs
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.csproj.CoreCompileInputs.cache
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.dll
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.pdb
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.runtimeconfig.json
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.runtimeconfig.dev.json
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.genruntimeconfig.cache
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.deps.json
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.runtimeconfig.json
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.runtimeconfig.dev.json
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.dll
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.pdb
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.csproj.AssemblyReference.cache
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.AssemblyInfoInputs.cache
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.AssemblyInfo.cs
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.csproj.CoreCompileInputs.cache
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.dll
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.pdb
+C:\Users\rfs4554\Downloads\BIR-EIS-VS\BIR-EIS-VS\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.genruntimeconfig.cache
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.deps.json
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.runtimeconfig.json
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.runtimeconfig.dev.json
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.dll
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.pdb
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.csproj.AssemblyReference.cache
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.AssemblyInfoInputs.cache
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.AssemblyInfo.cs
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.csproj.CoreCompileInputs.cache
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.dll
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.pdb
+C:\Shared\Rudolf\NEW CODE\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.genruntimeconfig.cache
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.deps.json
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.runtimeconfig.json
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.runtimeconfig.dev.json
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.dll
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.pdb
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.csproj.AssemblyReference.cache
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.AssemblyInfoInputs.cache
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.AssemblyInfo.cs
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.csproj.CoreCompileInputs.cache
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.dll
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.pdb
+C:\Shared\BIR-EIS\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.genruntimeconfig.cache
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.deps.json
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.runtimeconfig.json
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.runtimeconfig.dev.json
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.dll
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.pdb
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.csproj.AssemblyReference.cache
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.AssemblyInfoInputs.cache
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.AssemblyInfo.cs
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.csproj.CoreCompileInputs.cache
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.dll
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.pdb
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.genruntimeconfig.cache
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.deps.json
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.runtimeconfig.json
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.runtimeconfig.dev.json
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.dll
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\bin\Release\netcoreapp3.1\BIR_EIS_AWS.pdb
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.csproj.AssemblyReference.cache
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.AssemblyInfoInputs.cache
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.AssemblyInfo.cs
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.csproj.CoreCompileInputs.cache
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.dll
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.pdb
+C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\obj\Release\netcoreapp3.1\BIR_EIS_AWS.genruntimeconfig.cache
