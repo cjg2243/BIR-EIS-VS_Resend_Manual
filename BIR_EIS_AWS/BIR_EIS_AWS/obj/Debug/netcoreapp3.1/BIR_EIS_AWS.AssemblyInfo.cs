@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BIR_EIS_AWS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+028add9b05d341d00ffa02b437ef2d07b17cd2ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("BIR_EIS_AWS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BIR_EIS_AWS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

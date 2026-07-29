@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Shared\\BIR-EIS-PROD\\BIR-EIS-VS\\BIR-EIS-VS_Resend_Manual\\BIR-EIS-RDS\\BIR_EIS_RDS\\BIR_EIS_RDS.csproj": {}
+    "C:\\Charles\\Shared\\BIR-EIS-PROD\\BIR-EIS-VS-Git\\ADD_ON_PROJECTS_GIT\\BIR-EIS-VS_Resend_Manual\\BIR-EIS-RDS\\BIR_EIS_RDS\\BIR_EIS_RDS.csproj": {}
   },
   "projects": {
-    "D:\\Shared\\BIR-EIS-PROD\\BIR-EIS-VS\\BIR-EIS-VS_Resend_Manual\\BIR-EIS-RDS\\BIR_EIS_RDS\\BIR_EIS_RDS.csproj": {
+    "C:\\Charles\\Shared\\BIR-EIS-PROD\\BIR-EIS-VS-Git\\ADD_ON_PROJECTS_GIT\\BIR-EIS-VS_Resend_Manual\\BIR-EIS-RDS\\BIR_EIS_RDS\\BIR_EIS_RDS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Shared\\BIR-EIS-PROD\\BIR-EIS-VS\\BIR-EIS-VS_Resend_Manual\\BIR-EIS-RDS\\BIR_EIS_RDS\\BIR_EIS_RDS.csproj",
+        "projectUniqueName": "C:\\Charles\\Shared\\BIR-EIS-PROD\\BIR-EIS-VS-Git\\ADD_ON_PROJECTS_GIT\\BIR-EIS-VS_Resend_Manual\\BIR-EIS-RDS\\BIR_EIS_RDS\\BIR_EIS_RDS.csproj",
         "projectName": "BIR_EIS_RDS",
-        "projectPath": "D:\\Shared\\BIR-EIS-PROD\\BIR-EIS-VS\\BIR-EIS-VS_Resend_Manual\\BIR-EIS-RDS\\BIR_EIS_RDS\\BIR_EIS_RDS.csproj",
+        "projectPath": "C:\\Charles\\Shared\\BIR-EIS-PROD\\BIR-EIS-VS-Git\\ADD_ON_PROJECTS_GIT\\BIR-EIS-VS_Resend_Manual\\BIR-EIS-RDS\\BIR_EIS_RDS\\BIR_EIS_RDS.csproj",
         "packagesPath": "C:\\Users\\cjg2243\\.nuget\\packages\\",
-        "outputPath": "D:\\Shared\\BIR-EIS-PROD\\BIR-EIS-VS\\BIR-EIS-VS_Resend_Manual\\BIR-EIS-RDS\\BIR_EIS_RDS\\obj\\",
+        "outputPath": "C:\\Charles\\Shared\\BIR-EIS-PROD\\BIR-EIS-VS-Git\\ADD_ON_PROJECTS_GIT\\BIR-EIS-VS_Resend_Manual\\BIR-EIS-RDS\\BIR_EIS_RDS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,7 +39,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -70,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312\\RuntimeIdentifierGraph.json"
         }
       }
     }

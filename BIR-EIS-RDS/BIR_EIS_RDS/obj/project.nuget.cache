@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eyrAdYDbD1fggOqTlaImGL8eALuiFsH60aG39aB0AjHXjCaGob6xGypcHOuG3tgiqmTWGadnM/CkHWlNAHmbQg==",
+  "dgSpecHash": "kdYp/kCl0ag=",
   "success": true,
-  "projectFilePath": "D:\\Shared\\BIR-EIS-PROD\\BIR-EIS-VS\\BIR-EIS-VS_Resend_Manual\\BIR-EIS-RDS\\BIR_EIS_RDS\\BIR_EIS_RDS.csproj",
+  "projectFilePath": "C:\\Charles\\Shared\\BIR-EIS-PROD\\BIR-EIS-VS-Git\\ADD_ON_PROJECTS_GIT\\BIR-EIS-VS_Resend_Manual\\BIR-EIS-RDS\\BIR_EIS_RDS\\BIR_EIS_RDS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cjg2243\\.nuget\\packages\\amazon.lambda.core\\2.0.0\\amazon.lambda.core.2.0.0.nupkg.sha512",
     "C:\\Users\\cjg2243\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.10\\microsoft.entityframeworkcore.5.0.10.nupkg.sha512",

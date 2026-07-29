@@ -56,3 +56,14 @@ C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\obj\Debu
 C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\obj\Debug\netcoreapp3.1\BIR_EIS_AWS.csproj.CoreCompileInputs.cache
 C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\obj\Debug\netcoreapp3.1\BIR_EIS_AWS.dll
 C:\Shared\BIR-EIS-PROD\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\obj\Debug\netcoreapp3.1\BIR_EIS_AWS.pdb
+C:\Charles\Shared\BIR-EIS-PROD\BIR-EIS-VS-Git\ADD_ON_PROJECTS_GIT\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\bin\Debug\netcoreapp3.1\BIR_EIS_AWS.deps.json
+C:\Charles\Shared\BIR-EIS-PROD\BIR-EIS-VS-Git\ADD_ON_PROJECTS_GIT\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\bin\Debug\netcoreapp3.1\BIR_EIS_AWS.dll
+C:\Charles\Shared\BIR-EIS-PROD\BIR-EIS-VS-Git\ADD_ON_PROJECTS_GIT\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\bin\Debug\netcoreapp3.1\BIR_EIS_AWS.pdb
+C:\Charles\Shared\BIR-EIS-PROD\BIR-EIS-VS-Git\ADD_ON_PROJECTS_GIT\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\obj\Debug\netcoreapp3.1\BIR_EIS_AWS.csproj.AssemblyReference.cache
+C:\Charles\Shared\BIR-EIS-PROD\BIR-EIS-VS-Git\ADD_ON_PROJECTS_GIT\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\obj\Debug\netcoreapp3.1\BIR_EIS_AWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Charles\Shared\BIR-EIS-PROD\BIR-EIS-VS-Git\ADD_ON_PROJECTS_GIT\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\obj\Debug\netcoreapp3.1\BIR_EIS_AWS.AssemblyInfoInputs.cache
+C:\Charles\Shared\BIR-EIS-PROD\BIR-EIS-VS-Git\ADD_ON_PROJECTS_GIT\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\obj\Debug\netcoreapp3.1\BIR_EIS_AWS.AssemblyInfo.cs
+C:\Charles\Shared\BIR-EIS-PROD\BIR-EIS-VS-Git\ADD_ON_PROJECTS_GIT\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\obj\Debug\netcoreapp3.1\BIR_EIS_AWS.csproj.CoreCompileInputs.cache
+C:\Charles\Shared\BIR-EIS-PROD\BIR-EIS-VS-Git\ADD_ON_PROJECTS_GIT\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\obj\Debug\netcoreapp3.1\BIR_EIS_AWS.sourcelink.json
+C:\Charles\Shared\BIR-EIS-PROD\BIR-EIS-VS-Git\ADD_ON_PROJECTS_GIT\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\obj\Debug\netcoreapp3.1\BIR_EIS_AWS.dll
+C:\Charles\Shared\BIR-EIS-PROD\BIR-EIS-VS-Git\ADD_ON_PROJECTS_GIT\BIR-EIS-VS_Resend_Manual\BIR_EIS_AWS\BIR_EIS_AWS\obj\Debug\netcoreapp3.1\BIR_EIS_AWS.pdb
