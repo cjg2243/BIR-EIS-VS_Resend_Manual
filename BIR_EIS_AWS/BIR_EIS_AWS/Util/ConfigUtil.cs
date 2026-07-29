@@ -42,6 +42,8 @@ namespace BIR_EIS_AWS.Util
                 AwsRegion = (RegionEndpoint)typeof(RegionEndpoint).GetField("APSoutheast1").GetValue(null),
                 AwsAccessKeyId = "AKIAZDSSHIE2DTCVPU42",
                 AwsSecretAccessKey = "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"
+                AwsAccessKeyId = "XXXXXXXX",
+                AwsSecretAccessKey = "XXXXXXXX"
             };
 #else
             return new AWSCredentials()
